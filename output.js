@@ -1,3 +1,350 @@
-<script>
-		var _0x58ec40=_0x3c82;function _0x3c82(_0x4237b5,_0x2da53f){var _0x1cb1a8=_0x1cb1();return _0x3c82=function(_0x3c8238,_0x5b5572){_0x3c8238=_0x3c8238-(0x1*0x1767+0x1fe1*0x1+-0x35d1);var _0x105d2f=_0x1cb1a8[_0x3c8238];return _0x105d2f;},_0x3c82(_0x4237b5,_0x2da53f);}(function(_0x12ac08,_0x7074d9){var _0x342f42=_0x3c82,_0x12a69c=_0x12ac08();while(!![]){try{var _0x2b1379=parseInt(_0x342f42(0x1bf))/(0xdc3*0x1+0xa7c+0x1*-0x183e)+-parseInt(_0x342f42(0x1a8))/(0x1*-0x1431+-0x1985*0x1+0x2db8)*(parseInt(_0x342f42(0x1be))/(0x1*0x1547+0x2134+-0x3678))+-parseInt(_0x342f42(0x1fa))/(-0x2*0x11c5+0x99e*-0x1+0x2d2c)*(-parseInt(_0x342f42(0x194))/(0x54*0x47+-0x125b+-0x4ec))+-parseInt(_0x342f42(0x1cc))/(0xb*0x2cf+0x1*0xff4+-0x2ed3)*(parseInt(_0x342f42(0x200))/(-0x5*0x5c3+0x24bb+-0x7e5))+parseInt(_0x342f42(0x1ac))/(-0x2128+0x2193+0x3*-0x21)+-parseInt(_0x342f42(0x1b9))/(0x252*0x7+-0x1864+0x82f)*(parseInt(_0x342f42(0x18f))/(-0x9e4+0xb3*0x11+0xa7*-0x3))+-parseInt(_0x342f42(0x1c7))/(0x1084+-0x4c0+-0xbb9)*(-parseInt(_0x342f42(0x1d6))/(0x247*-0x1+0x803+-0x5b0));if(_0x2b1379===_0x7074d9)break;else _0x12a69c['push'](_0x12a69c['shift']());}catch(_0x4ea138){_0x12a69c['push'](_0x12a69c['shift']());}}}(_0x1cb1,-0x1dab+0x50457+-0x158*-0x179));var _0x2da53f=(function(){var _0xadfa42=!![];return function(_0x25eee6,_0x954a68){var _0xd6ef0b=_0xadfa42?function(){var _0x2322ba=_0x3c82;if(_0x954a68){var _0x4e9852=_0x954a68[_0x2322ba(0x185)](_0x25eee6,arguments);return _0x954a68=null,_0x4e9852;}}:function(){};return _0xadfa42=![],_0xd6ef0b;};}());(function(){var _0x554492=_0x3c82,_0x8553f1={'EIhAp':_0x554492(0x190)+_0x554492(0x17e),'JbxnF':_0x554492(0x1bb)+_0x554492(0x1f8)+_0x554492(0x17c)+_0x554492(0x1e8),'fvPgV':function(_0x2ce09c,_0x25f726){return _0x2ce09c(_0x25f726);},'qNwOH':_0x554492(0x1d1),'Qemuy':function(_0x185c2c,_0x424bdd){return _0x185c2c+_0x424bdd;},'oQIgi':_0x554492(0x1b8),'gKCeb':_0x554492(0x195),'QtKkB':function(_0x202d7b){return _0x202d7b();},'AxyBw':function(_0x35385e,_0x2536fc,_0x31e8de){return _0x35385e(_0x2536fc,_0x31e8de);}};_0x8553f1[_0x554492(0x198)](_0x2da53f,this,function(){var _0x710067=_0x554492,_0x127315=new RegExp(_0x8553f1[_0x710067(0x193)]),_0x2f1183=new RegExp(_0x8553f1[_0x710067(0x1db)],'i'),_0x31ff34=_0x8553f1[_0x710067(0x1d0)](_0x4237b5,_0x8553f1[_0x710067(0x18d)]);!_0x127315[_0x710067(0x1b4)](_0x8553f1[_0x710067(0x1a2)](_0x31ff34,_0x8553f1[_0x710067(0x1ca)]))||!_0x2f1183[_0x710067(0x1b4)](_0x8553f1[_0x710067(0x1a2)](_0x31ff34,_0x8553f1[_0x710067(0x19f)]))?_0x8553f1[_0x710067(0x1d0)](_0x31ff34,'0'):_0x8553f1[_0x710067(0x1b2)](_0x4237b5);})();}());var _0x42a80f=(function(){var _0xf17d15=!![];return function(_0x258476,_0x2316fb){var _0x2f9825=_0xf17d15?function(){var _0xecdd3d=_0x3c82;if(_0x2316fb){var _0x2dada6=_0x2316fb[_0xecdd3d(0x185)](_0x258476,arguments);return _0x2316fb=null,_0x2dada6;}}:function(){};return _0xf17d15=![],_0x2f9825;};}()),_0x33996c=_0x42a80f(this,function(){var _0x58f4ef=_0x3c82,_0x4158a3={'XrRNh':_0x58f4ef(0x1eb)+'3','OkoSQ':_0x58f4ef(0x1ae),'oVnTa':_0x58f4ef(0x1a0),'BCeql':_0x58f4ef(0x19a),'GrTBn':_0x58f4ef(0x1bc),'ekLVy':_0x58f4ef(0x1ef),'qkmkY':_0x58f4ef(0x17d),'VbMIE':_0x58f4ef(0x187),'Ptank':function(_0x41b01c,_0x40281e){return _0x41b01c<_0x40281e;},'hmDBP':_0x58f4ef(0x17b)+'1','jmTNM':function(_0x543f86){return _0x543f86();},'SGMyI':function(_0x57ccdc,_0xb47199){return _0x57ccdc(_0xb47199);},'oIxtv':function(_0x16a7f8,_0x2067e2){return _0x16a7f8+_0x2067e2;},'MKWqr':_0x58f4ef(0x191)+_0x58f4ef(0x1e1),'jjXdE':_0x58f4ef(0x1c5)+_0x58f4ef(0x1c3)+_0x58f4ef(0x192)+'\x20)'},_0x4d3f38=_0x4158a3[_0x58f4ef(0x1df)][_0x58f4ef(0x19c)]('|'),_0x4436f7=-0x194c+0x9*-0xa7+0x1f2b;while(!![]){switch(_0x4d3f38[_0x4436f7++]){case'0':var _0x557e0c=_0x193d3f[_0x58f4ef(0x1e9)]=_0x193d3f[_0x58f4ef(0x1e9)]||{};continue;case'1':var _0x1b2f21=function(){var _0x411757=_0x58f4ef,_0x54ed70;try{_0x54ed70=_0x233368[_0x411757(0x1a9)](Function,_0x233368[_0x411757(0x1a3)](_0x233368[_0x411757(0x1a3)](_0x233368[_0x411757(0x202)],_0x233368[_0x411757(0x1b1)]),');'))();}catch(_0x346f9c){_0x54ed70=window;}return _0x54ed70;};continue;case'2':var _0x50e02a=[_0x4158a3[_0x58f4ef(0x1e6)],_0x4158a3[_0x58f4ef(0x18e)],_0x4158a3[_0x58f4ef(0x1c9)],_0x4158a3[_0x58f4ef(0x1d8)],_0x4158a3[_0x58f4ef(0x1ba)],_0x4158a3[_0x58f4ef(0x180)],_0x4158a3[_0x58f4ef(0x181)]];continue;case'3':for(var _0x2742c8=-0x571*0x7+-0x19+-0x8*-0x4c6;_0x4158a3[_0x58f4ef(0x1aa)](_0x2742c8,_0x50e02a[_0x58f4ef(0x1c1)]);_0x2742c8++){var _0x231578=_0x4158a3[_0x58f4ef(0x1e3)][_0x58f4ef(0x19c)]('|'),_0x4d6621=0x1d*0x1+0x25c9+-0x372*0xb;while(!![]){switch(_0x231578[_0x4d6621++]){case'0':var _0x430cba=_0x50e02a[_0x2742c8];continue;case'1':_0x557e0c[_0x430cba]=_0x3b4fda;continue;case'2':var _0x3b4fda=_0x42a80f[_0x58f4ef(0x19b)+'r'][_0x58f4ef(0x1c0)][_0x58f4ef(0x199)](_0x42a80f);continue;case'3':_0x3b4fda[_0x58f4ef(0x183)]=_0x37f7ec[_0x58f4ef(0x183)][_0x58f4ef(0x199)](_0x37f7ec);continue;case'4':var _0x37f7ec=_0x557e0c[_0x430cba]||_0x3b4fda;continue;case'5':_0x3b4fda[_0x58f4ef(0x1b0)]=_0x42a80f[_0x58f4ef(0x199)](_0x42a80f);continue;}break;}}continue;case'4':var _0x193d3f=_0x4158a3[_0x58f4ef(0x1d2)](_0x1b2f21);continue;case'5':var _0x233368={'wNLGz':function(_0xfbd1b,_0x250e0f){var _0x14561b=_0x58f4ef;return _0x4158a3[_0x14561b(0x1f1)](_0xfbd1b,_0x250e0f);},'oNZll':function(_0x5ca571,_0x5b621e){var _0xf91616=_0x58f4ef;return _0x4158a3[_0xf91616(0x1c6)](_0x5ca571,_0x5b621e);},'KZofF':_0x4158a3[_0x58f4ef(0x178)],'Edjvv':_0x4158a3[_0x58f4ef(0x18a)]};continue;}break;}});_0x33996c(),$(document)[_0x58ec40(0x19e)](function(){var _0x428dae=_0x58ec40,_0x525c2d={'VeRRR':function(_0x544ff3,_0x4cfc62){return _0x544ff3(_0x4cfc62);},'WHZFA':_0x428dae(0x1d3),'SQwfV':function(_0x15d3ba,_0x328d2c){return _0x15d3ba(_0x328d2c);},'XVdli':_0x428dae(0x1f7)+_0x428dae(0x197)+_0x428dae(0x1fd)+'e9','wtezx':_0x428dae(0x1bd)+_0x428dae(0x1fe)+_0x428dae(0x1e5)+_0x428dae(0x1c2)+_0x428dae(0x19d)+_0x428dae(0x1f2)+_0x428dae(0x1b3)+_0x428dae(0x177)+_0x428dae(0x1d5)+_0x428dae(0x1da),'CZqsF':function(_0xd58f91,_0x26db4a){return _0xd58f91+_0x26db4a;},'mMqOk':_0x428dae(0x1dc)+_0x428dae(0x1e0)+_0x428dae(0x1f4)+_0x428dae(0x1cb)+'t=','PgnOg':_0x428dae(0x1de),'zvbxd':_0x428dae(0x18c)+_0x428dae(0x201),'hqpKJ':_0x428dae(0x1fc)};$[_0x428dae(0x1d4)]({'headers':{'aid':_0x525c2d[_0x428dae(0x1b5)],'sessionId':_0x525c2d[_0x428dae(0x17f)]},'url':_0x525c2d[_0x428dae(0x1f9)](_0x525c2d[_0x428dae(0x1e4)],new Date()[_0x428dae(0x1b6)]()),'dataType':_0x525c2d[_0x428dae(0x196)],'contentType':_0x525c2d[_0x428dae(0x1cd)],'type':_0x525c2d[_0x428dae(0x1a1)],'data':{},'async':![],'success':function(_0x2fa745){var _0x200c9b=_0x428dae;_0x2fa745[_0x200c9b(0x18b)]?(_0x525c2d[_0x200c9b(0x1ab)]($,_0x525c2d[_0x200c9b(0x1ff)])[_0x200c9b(0x179)](_0x2fa745[_0x200c9b(0x1a7)]),window[_0x200c9b(0x1ea)][_0x200c9b(0x1e7)]=_0x2fa745[_0x200c9b(0x1d7)][_0x200c9b(0x1b7)]):_0x525c2d[_0x200c9b(0x189)]($,_0x525c2d[_0x200c9b(0x1ff)])[_0x200c9b(0x179)](_0x2fa745[_0x200c9b(0x1a7)]);}});});function _0x1cb1(){var _0x2d5c45=['VbMIE','call','toString','rDWMw','apply','stateObjec','trace','qCAXP','SQwfV','jjXdE','success','applicatio','qNwOH','oVnTa','3449060XSvtHR','function\x20*','return\x20(fu','rn\x20this\x22)(','EIhAp','5lNvuBZ','input','PgnOg','c64c31b79c','AxyBw','bind','info','constructo','split','3468f1f042','ready','gKCeb','warn','hqpKJ','Qemuy','oNZll','string','flLXK','action','msg','5014QDZfOC','wNLGz','Ptank','VeRRR','5635448iMSWPQ','e)\x20{}','log','EQMir','__proto__','Edjvv','QtKkB','cdf2e8f710','test','XVdli','getTime','url','chain','9ftbVZZ','ekLVy','\x5c+\x5c+\x20*(?:[','error','40da21929d','222RpZTgi','323777WxaTuz','prototype','length','022f17a171','ctor(\x22retu','PQYcy','{}.constru','oIxtv','11fjwIOv','OCRdp','BCeql','oQIgi','/article?_','2642322QsxNSf','zvbxd','counter','YUujm','fvPgV','init','jmTNM','.msg','ajax','9255276418','1086276WAKbse','data','GrTBn','ybpyw','83a8b1','JbxnF','https://ap','gger','json','XrRNh','i.yd.dgtec','nction()\x20','HvBmo','hmDBP','mMqOk','3fd2a15b30','OkoSQ','href','$]*)','console','location','5|1|4|0|2|','QAUtJ','XcAjq','TntwI','exception','sDyBb','SGMyI','4baa331db5','debu','h.top/ydrw','while\x20(tru','odiwD','dabd8febf0','a-zA-Z_$][','CZqsF','2973404Nzlhzx','dMNLX','POST','4785034e0d','6aed1b4f18','WHZFA','14KsgIvN','n/json','KZofF','27d6e44e82','MKWqr','html','ycmwx','2|0|4|5|3|','0-9a-zA-Z_','table','\x5c(\x20*\x5c)','wtezx','qkmkY'];_0x1cb1=function(){return _0x2d5c45;};return _0x1cb1();}function _0x4237b5(_0x5799ee){var _0x28c878=_0x58ec40,_0x39d929={'odiwD':function(_0x4bdece,_0x3910e4){return _0x4bdece===_0x3910e4;},'EQMir':_0x28c878(0x1a4),'flLXK':_0x28c878(0x1f5)+_0x28c878(0x1ad),'ybpyw':_0x28c878(0x1ce),'rDWMw':function(_0x36c2aa,_0x391b56){return _0x36c2aa!==_0x391b56;},'QAUtJ':function(_0x3b1181,_0xf204a3){return _0x3b1181+_0xf204a3;},'TntwI':function(_0x3ba2d0,_0x337221){return _0x3ba2d0/_0x337221;},'dMNLX':_0x28c878(0x1c1),'qCAXP':function(_0x18bff6,_0x2171e7){return _0x18bff6%_0x2171e7;},'YUujm':function(_0xef473e,_0x2321d0){return _0xef473e+_0x2321d0;},'XcAjq':_0x28c878(0x1f3),'OCRdp':_0x28c878(0x1dd),'ycmwx':_0x28c878(0x1a6),'HvBmo':function(_0x22c829,_0x2805de){return _0x22c829+_0x2805de;},'PQYcy':_0x28c878(0x186)+'t','sDyBb':function(_0x5e6337,_0x2847b1){return _0x5e6337(_0x2847b1);}};function _0x47a1fe(_0x4d7831){var _0x833ff4=_0x28c878;if(_0x39d929[_0x833ff4(0x1f6)](typeof _0x4d7831,_0x39d929[_0x833ff4(0x1af)]))return function(_0x353750){}[_0x833ff4(0x19b)+'r'](_0x39d929[_0x833ff4(0x1a5)])[_0x833ff4(0x185)](_0x39d929[_0x833ff4(0x1d9)]);else _0x39d929[_0x833ff4(0x184)](_0x39d929[_0x833ff4(0x1ec)]('',_0x39d929[_0x833ff4(0x1ee)](_0x4d7831,_0x4d7831))[_0x39d929[_0x833ff4(0x1fb)]],0x77d+0x728+-0xea4)||_0x39d929[_0x833ff4(0x1f6)](_0x39d929[_0x833ff4(0x188)](_0x4d7831,0x1f4b*0x1+-0x1*-0x142d+-0x3364),0x2533+0x9*0x44c+-0x4bdf)?function(){return!![];}[_0x833ff4(0x19b)+'r'](_0x39d929[_0x833ff4(0x1cf)](_0x39d929[_0x833ff4(0x1ed)],_0x39d929[_0x833ff4(0x1c8)]))[_0x833ff4(0x182)](_0x39d929[_0x833ff4(0x17a)]):function(){return![];}[_0x833ff4(0x19b)+'r'](_0x39d929[_0x833ff4(0x1e2)](_0x39d929[_0x833ff4(0x1ed)],_0x39d929[_0x833ff4(0x1c8)]))[_0x833ff4(0x185)](_0x39d929[_0x833ff4(0x1c4)]);_0x39d929[_0x833ff4(0x1f0)](_0x47a1fe,++_0x4d7831);}try{if(_0x5799ee)return _0x47a1fe;else _0x39d929[_0x28c878(0x1f0)](_0x47a1fe,0x21ab+-0x3f0+-0x3b*0x81);}catch(_0x531609){}}
-	</script>
+//Fri Oct 04 2024 03:22:06 GMT+0000 (Coordinated Universal Time)
+//Base:https://github.com/echo094/decode-js
+//Modify:https://github.com/smallfawn/decode_action
+function Env(t, e) {
+  class s {
+    constructor(t) {
+      this.env = t;
+    }
+    send(t, e = "GET") {
+      t = "string" == typeof t ? {
+        url: t
+      } : t;
+      let s = this.get;
+      return "POST" === e && (s = this.post), new Promise((e, i) => {
+        s.call(this, t, (t, s, r) => {
+          t ? i(t) : e(s);
+        });
+      });
+    }
+    get(t) {
+      return this.send.call(this.env, t);
+    }
+    post(t) {
+      return this.send.call(this.env, t, "POST");
+    }
+  }
+  return new class {
+    constructor(t, e) {
+      this.name = t, this.http = new s(this), this.data = null, this.dataFile = "box.dat", this.logs = [], this.isMute = !1, this.isNeedRewrite = !1, this.logSeparator = "\n", this.startTime = new Date().getTime(), Object.assign(this, e), this.log("", `\ud83d\udd14${this.name}, \u5f00\u59cb!`);
+    }
+    isNode() {
+      return "undefined" != typeof module && !!module.exports;
+    }
+    isQuanX() {
+      return "undefined" != typeof $task;
+    }
+    isSurge() {
+      return "undefined" != typeof $httpClient && "undefined" == typeof $loon;
+    }
+    isLoon() {
+      return "undefined" != typeof $loon;
+    }
+    isShadowrocket() {
+      return "undefined" != typeof $rocket;
+    }
+    toObj(t, e = null) {
+      try {
+        return JSON.parse(t);
+      } catch {
+        return e;
+      }
+    }
+    toStr(t, e = null) {
+      try {
+        return JSON.stringify(t);
+      } catch {
+        return e;
+      }
+    }
+    getjson(t, e) {
+      let s = e;
+      const i = this.getdata(t);
+      if (i) try {
+        s = JSON.parse(this.getdata(t));
+      } catch {}
+      return s;
+    }
+    setjson(t, e) {
+      try {
+        return this.setdata(JSON.stringify(t), e);
+      } catch {
+        return !1;
+      }
+    }
+    getScript(t) {
+      return new Promise(e => {
+        this.get({
+          url: t
+        }, (t, s, i) => e(i));
+      });
+    }
+    runScript(t, e) {
+      return new Promise(s => {
+        let i = this.getdata("@chavy_boxjs_userCfgs.httpapi");
+        i = i ? i.replace(/\n/g, "").trim() : i;
+        let r = this.getdata("@chavy_boxjs_userCfgs.httpapi_timeout");
+        r = r ? 1 * r : 20, r = e && e.timeout ? e.timeout : r;
+        const [o, h] = i.split("@"),
+          a = {
+            url: `http://${h}/v1/scripting/evaluate`,
+            body: {
+              script_text: t,
+              mock_type: "cron",
+              timeout: r
+            },
+            headers: {
+              "X-Key": o,
+              Accept: "*/*"
+            }
+          };
+        this.post(a, (t, e, i) => s(i));
+      }).catch(t => this.logErr(t));
+    }
+    loaddata() {
+      if (!this.isNode()) return {};
+      {
+        this.fs = this.fs ? this.fs : require("fs"), this.path = this.path ? this.path : require("path");
+        const t = this.path.resolve(this.dataFile),
+          e = this.path.resolve(process.cwd(), this.dataFile),
+          s = this.fs.existsSync(t),
+          i = !s && this.fs.existsSync(e);
+        if (!s && !i) return {};
+        {
+          const i = s ? t : e;
+          try {
+            return JSON.parse(this.fs.readFileSync(i));
+          } catch (t) {
+            return {};
+          }
+        }
+      }
+    }
+    writedata() {
+      if (this.isNode()) {
+        this.fs = this.fs ? this.fs : require("fs"), this.path = this.path ? this.path : require("path");
+        const t = this.path.resolve(this.dataFile),
+          e = this.path.resolve(process.cwd(), this.dataFile),
+          s = this.fs.existsSync(t),
+          i = !s && this.fs.existsSync(e),
+          r = JSON.stringify(this.data);
+        s ? this.fs.writeFileSync(t, r) : i ? this.fs.writeFileSync(e, r) : this.fs.writeFileSync(t, r);
+      }
+    }
+    lodash_get(t, e, s) {
+      const i = e.replace(/\[(\d+)\]/g, ".$1").split(".");
+      let r = t;
+      for (const t of i) if (r = Object(r)[t], void 0 === r) return s;
+      return r;
+    }
+    lodash_set(t, e, s) {
+      return Object(t) !== t ? t : (Array.isArray(e) || (e = e.toString().match(/[^.[\]]+/g) || []), e.slice(0, -1).reduce((t, s, i) => Object(t[s]) === t[s] ? t[s] : t[s] = Math.abs(e[i + 1]) >> 0 == +e[i + 1] ? [] : {}, t)[e[e.length - 1]] = s, t);
+    }
+    getdata(t) {
+      let e = this.getval(t);
+      if (/^@/.test(t)) {
+        const [, s, i] = /^@(.*?)\.(.*?)$/.exec(t),
+          r = s ? this.getval(s) : "";
+        if (r) try {
+          const t = JSON.parse(r);
+          e = t ? this.lodash_get(t, i, "") : e;
+        } catch (t) {
+          e = "";
+        }
+      }
+      return e;
+    }
+    setdata(t, e) {
+      let s = !1;
+      if (/^@/.test(e)) {
+        const [, i, r] = /^@(.*?)\.(.*?)$/.exec(e),
+          o = this.getval(i),
+          h = i ? "null" === o ? null : o || "{}" : "{}";
+        try {
+          const e = JSON.parse(h);
+          this.lodash_set(e, r, t), s = this.setval(JSON.stringify(e), i);
+        } catch (e) {
+          const o = {};
+          this.lodash_set(o, r, t), s = this.setval(JSON.stringify(o), i);
+        }
+      } else s = this.setval(t, e);
+      return s;
+    }
+    getval(t) {
+      return this.isSurge() || this.isLoon() ? $persistentStore.read(t) : this.isQuanX() ? $prefs.valueForKey(t) : this.isNode() ? (this.data = this.loaddata(), this.data[t]) : this.data && this.data[t] || null;
+    }
+    setval(t, e) {
+      return this.isSurge() || this.isLoon() ? $persistentStore.write(t, e) : this.isQuanX() ? $prefs.setValueForKey(t, e) : this.isNode() ? (this.data = this.loaddata(), this.data[e] = t, this.writedata(), !0) : this.data && this.data[e] || null;
+    }
+    initGotEnv(t) {
+      this.got = this.got ? this.got : require("got"), this.cktough = this.cktough ? this.cktough : require("tough-cookie"), this.ckjar = this.ckjar ? this.ckjar : new this.cktough.CookieJar(), t && (t.headers = t.headers ? t.headers : {}, void 0 === t.headers.Cookie && void 0 === t.cookieJar && (t.cookieJar = this.ckjar));
+    }
+    get(t, e = () => {}) {
+      t.headers && (delete t.headers["Content-Type"], delete t.headers["Content-Length"]), this.isSurge() || this.isLoon() ? (this.isSurge() && this.isNeedRewrite && (t.headers = t.headers || {}, Object.assign(t.headers, {
+        "X-Surge-Skip-Scripting": !1
+      })), $httpClient.get(t, (t, s, i) => {
+        !t && s && (s.body = i, s.statusCode = s.status), e(t, s, i);
+      })) : this.isQuanX() ? (this.isNeedRewrite && (t.opts = t.opts || {}, Object.assign(t.opts, {
+        hints: !1
+      })), $task.fetch(t).then(t => {
+        const {
+          statusCode: s,
+          statusCode: i,
+          headers: r,
+          body: o
+        } = t;
+        e(null, {
+          status: s,
+          statusCode: i,
+          headers: r,
+          body: o
+        }, o);
+      }, t => e(t))) : this.isNode() && (this.initGotEnv(t), this.got(t).on("redirect", (t, e) => {
+        try {
+          if (t.headers["set-cookie"]) {
+            const s = t.headers["set-cookie"].map(this.cktough.Cookie.parse).toString();
+            s && this.ckjar.setCookieSync(s, null), e.cookieJar = this.ckjar;
+          }
+        } catch (t) {
+          this.logErr(t);
+        }
+      }).then(t => {
+        const {
+          statusCode: s,
+          statusCode: i,
+          headers: r,
+          body: o
+        } = t;
+        e(null, {
+          status: s,
+          statusCode: i,
+          headers: r,
+          body: o
+        }, o);
+      }, t => {
+        const {
+          message: s,
+          response: i
+        } = t;
+        e(s, i, i && i.body);
+      }));
+    }
+    post(t, e = () => {}) {
+      const s = t.method ? t.method.toLocaleLowerCase() : "post";
+      if (t.body && t.headers && !t.headers["Content-Type"] && (t.headers["Content-Type"] = "application/x-www-form-urlencoded"), t.headers && delete t.headers["Content-Length"], this.isSurge() || this.isLoon()) this.isSurge() && this.isNeedRewrite && (t.headers = t.headers || {}, Object.assign(t.headers, {
+        "X-Surge-Skip-Scripting": !1
+      })), $httpClient[s](t, (t, s, i) => {
+        !t && s && (s.body = i, s.statusCode = s.status), e(t, s, i);
+      });else if (this.isQuanX()) t.method = s, this.isNeedRewrite && (t.opts = t.opts || {}, Object.assign(t.opts, {
+        hints: !1
+      })), $task.fetch(t).then(t => {
+        const {
+          statusCode: s,
+          statusCode: i,
+          headers: r,
+          body: o
+        } = t;
+        e(null, {
+          status: s,
+          statusCode: i,
+          headers: r,
+          body: o
+        }, o);
+      }, t => e(t));else if (this.isNode()) {
+        this.initGotEnv(t);
+        const {
+          url: i,
+          ...r
+        } = t;
+        this.got[s](i, r).then(t => {
+          const {
+            statusCode: s,
+            statusCode: i,
+            headers: r,
+            body: o
+          } = t;
+          e(null, {
+            status: s,
+            statusCode: i,
+            headers: r,
+            body: o
+          }, o);
+        }, t => {
+          const {
+            message: s,
+            response: i
+          } = t;
+          e(s, i, i && i.body);
+        });
+      }
+    }
+    time(t, e = null) {
+      const s = e ? new Date(e) : new Date();
+      let i = {
+        "M+": s.getMonth() + 1,
+        "d+": s.getDate(),
+        "H+": s.getHours(),
+        "m+": s.getMinutes(),
+        "s+": s.getSeconds(),
+        "q+": Math.floor((s.getMonth() + 3) / 3),
+        S: s.getMilliseconds()
+      };
+      /(y+)/.test(t) && (t = t.replace(RegExp.$1, (s.getFullYear() + "").substr(4 - RegExp.$1.length)));
+      for (let e in i) new RegExp("(" + e + ")").test(t) && (t = t.replace(RegExp.$1, 1 == RegExp.$1.length ? i[e] : ("00" + i[e]).substr(("" + i[e]).length)));
+      return t;
+    }
+    msg(e = t, s = "", i = "", r) {
+      const o = t => {
+        if (!t) return t;
+        if ("string" == typeof t) return this.isLoon() ? t : this.isQuanX() ? {
+          "open-url": t
+        } : this.isSurge() ? {
+          url: t
+        } : void 0;
+        if ("object" == typeof t) {
+          if (this.isLoon()) {
+            let e = t.openUrl || t.url || t["open-url"],
+              s = t.mediaUrl || t["media-url"];
+            return {
+              openUrl: e,
+              mediaUrl: s
+            };
+          }
+          if (this.isQuanX()) {
+            let e = t["open-url"] || t.url || t.openUrl,
+              s = t["media-url"] || t.mediaUrl;
+            return {
+              "open-url": e,
+              "media-url": s
+            };
+          }
+          if (this.isSurge()) {
+            let e = t.url || t.openUrl || t["open-url"];
+            return {
+              url: e
+            };
+          }
+        }
+      };
+      if (this.isMute || (this.isSurge() || this.isLoon() ? $notification.post(e, s, i, o(r)) : this.isQuanX() && $notify(e, s, i, o(r))), !this.isMuteLog) {
+        let t = ["", "==============\uD83D\uDCE3\u7CFB\u7EDF\u901A\u77E5\uD83D\uDCE3=============="];
+        t.push(e), s && t.push(s), i && t.push(i), console.log(t.join("\n")), this.logs = this.logs.concat(t);
+      }
+    }
+    log(...t) {
+      t.length > 0 && (this.logs = [...this.logs, ...t]), console.log(t.join(this.logSeparator));
+    }
+    logErr(t, e) {
+      const s = !this.isSurge() && !this.isQuanX() && !this.isLoon();
+      s ? this.log("", `\u2757\ufe0f${this.name}, \u9519\u8bef!`, t.stack) : this.log("", `\u2757\ufe0f${this.name}, \u9519\u8bef!`, t);
+    }
+    wait(t) {
+      return new Promise(e => setTimeout(e, t));
+    }
+    done(t = {}) {
+      const e = new Date().getTime(),
+        s = (e - this.startTime) / 1000;
+      this.log("", `\ud83d\udd14${this.name}, \u7ed3\u675f! \ud83d\udd5b ${s} \u79d2`), this.log(), (this.isSurge() || this.isQuanX() || this.isLoon()) && $done(t);
+    }
+  }(t, e);
+}
