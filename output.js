@@ -1,63 +1,6 @@
-//Thu Dec 26 2024 14:40:42 GMT+0000 (Coordinated Universal Time)
+//Thu Dec 26 2024 14:43:11 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
-var _0x133d09 = function () {
-  var _0x550e30 = true;
-  return function (_0x189671, _0x37be40) {
-    {
-      var _0x42aea3 = _0x550e30 ? function () {
-        {
-          if (_0x37be40) {
-            var _0x49b245 = _0x37be40.apply(_0x189671, arguments);
-            _0x37be40 = null;
-            return _0x49b245;
-          }
-        }
-      } : function () {};
-      _0x550e30 = false;
-      return _0x42aea3;
-    }
-  };
-}();
-var _0x1d7e0f = _0x133d09(this, function () {
-  var _0x1c2f9e = function () {};
-  var _0x9f09de;
-  try {
-    var _0xa02284 = Function("return (function() {}.constructor(\"return this\")( ));");
-    _0x9f09de = _0xa02284();
-  } catch (_0x37ad2f) {
-    {
-      _0x9f09de = window;
-    }
-  }
-  if (!_0x9f09de.console) {
-    _0x9f09de.console = function (_0x37ab3a) {
-      {
-        var _0x59d2cb = {
-          log: _0x37ab3a,
-          warn: _0x37ab3a,
-          debug: _0x37ab3a,
-          info: _0x37ab3a,
-          error: _0x37ab3a,
-          exception: _0x37ab3a,
-          table: _0x37ab3a,
-          trace: _0x37ab3a
-        };
-        return _0x59d2cb;
-      }
-    }(_0x1c2f9e);
-  } else {
-    _0x9f09de.console.log = _0x1c2f9e;
-    _0x9f09de.console.warn = _0x1c2f9e;
-    _0x9f09de.console.debug = _0x1c2f9e;
-    _0x9f09de.console.info = _0x1c2f9e;
-    _0x9f09de.console.error = _0x1c2f9e;
-    _0x9f09de.console.exception = _0x1c2f9e;
-    _0x9f09de.console.table = _0x1c2f9e;
-    _0x9f09de.console.trace = _0x1c2f9e;
-  }
-});
-_0x1d7e0f();
 var rotateLeft = function (_0x59663a, _0xe31b78) {
   return _0x59663a << _0xe31b78 | _0x59663a >>> 32 - _0xe31b78;
 };
